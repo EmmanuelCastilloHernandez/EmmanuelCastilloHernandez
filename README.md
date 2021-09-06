@@ -1,6 +1,7 @@
 # All About Me:
 
 ![](banner.png)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Name: <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" alt="Mexico Flag" style="height: 15px;" /> Emmanuel Castillo Hernandez <img src="https://www.unco.edu/gender-sexuality-resource-center/images/pride-flags/Bisexual-Pride.jpg" alt="Bi Flag" style="height: 15px;" />
 I'm just a Californian looking to enjoy life to its fullest extent while also trying to raise awareness about social and environmental issues that affect our daily lives.

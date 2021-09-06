@@ -36,9 +36,9 @@ I'm just a Californian looking to enjoy life to its fullest extent while also tr
 Comet is a Discord Bot built on originally Discord.py, but now it uses PyCord. This bot has many cool features like a 5-page snipe, edit snipe, a music player with Spotify support (sort-of), a flexible warning system, and image commands capable of taking user images as input and generating images based on them.
 
 #### CometCRISIS (WIP)
-Comet will soon have a pseudo-hotline called CometCRISIS, where a user can get resources they need to deal with stressful situations like being having ICE at your front door to even giving resources for suicide prevention. Users are allowed the option to use CometCRISIS in English or Spanish and can even contact the bot's developer (me) in case that they need help from a person. It is still in development, but progress on CometCRISIS is going well, with it being 55% complete.
+Comet will soon have a human helpline command called CometCRISIS, where a user can get resources they need to deal with stressful situations like being having ICE at your front door to even giving resources for suicide prevention and even finding shelter in case they need it. Users are allowed the option to use CometCRISIS in English or Spanish and can even contact the bot's developer (me) in case that they need help from a person. It is still in development, but progress on CometCRISIS is going well, with it being 55% complete.
 
-I expect the hotline to be fully functional by Dec. 2021 and serve the LA County in California, but CometCRISIS still tries to give the users out of the LA County Area useful information.
+I expect the helpline to be fully functional by Dec. 2021 and serve the LA County in California, but CometCRISIS still tries to give the users out of the LA County Area useful information.
 
 #### Check Out Comet
 To check out Comet, go to its **[GitHub Page](https://github.com/EmmanuelCastilloHernandez/CometBot)** and to invite it visit its **[Official Website](https://cometbot.emmanuelch.repl.co/)**

@@ -2,7 +2,7 @@
 
 ![](banner.png)
 
-## Name: Emmanuel Castillo Hernandez
+## Name: Emmanuel Castillo Hernandez <img src="https://www.unco.edu/gender-sexuality-resource-center/images/pride-flags/Bisexual-Pride.jpg" alt="Bi Flag" style="height: 15px;" />
 I'm just a Californian looking to enjoy life to its fullest extent while also trying to raise awareness about social and environmental issues that affect our daily lives.
 
 
@@ -11,7 +11,6 @@ I'm just a Californian looking to enjoy life to its fullest extent while also tr
 ### Age: 16
 ### Nationality: Mexican
 ### Languages Fluent In: English and Spanish
-### Sexuality: Bisexual <img src="https://www.unco.edu/gender-sexuality-resource-center/images/pride-flags/Bisexual-Pride.jpg" alt="Bi Flag" style="height: 15px;" />
 ### Pronouns: `Any Pronouns`
 ### Interests:
 * Gardening
